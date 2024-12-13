@@ -163,7 +163,6 @@ uname -a
 This will give us more information about your Go version and system, which can help in troubleshooting.
 
 Remember, working with USB devices often requires elevated privileges. When you run your UKIP application, you might need to use `sudo` or set up appropriate udev rules to allow non-root access to USB devices.
-```
 
 
 ## License
